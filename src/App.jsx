@@ -459,7 +459,7 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-slate-800 py-8 text-center">
         <p className="text-slate-500">
-          © 2026 Ashish. Built with React & Tailwind CSS.
+          © 2026 Ashish.
         </p>
       </footer>
 
