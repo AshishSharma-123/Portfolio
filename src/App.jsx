@@ -60,7 +60,7 @@ function App() {
       {/* Navbar */}
       <nav className="sticky top-0 z-50 flex justify-between items-center px-10 py-6 border-b border-slate-800 bg-slate-950/90 backdrop-blur-md">
         <h1 className="text-2xl font-bold text-blue-500">
-          Ashish Sharma
+          Ashish
         </h1>
 
         <div className="space-x-6 hidden md:block">
