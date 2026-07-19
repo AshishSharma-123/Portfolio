@@ -214,7 +214,7 @@ function App() {
               2022 - 2026
             </p>
             <p className="text-slate-400 mt-2">
-              Percentage: 74.42            </p>
+              Percentage: 74.42%            </p>
           </div>
 
           <div className="bg-slate-900 p-6 rounded-xl border border-slate-800 hover:border-blue-500 transition">
